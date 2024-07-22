@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Code
 <!--
 **ngoloc2k4/ngoloc2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
